@@ -31,17 +31,20 @@ const fernando = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backEnd: ["nodejs", "express", "python", "php", "java"],
-        fronEnd: ["angular", "vuejs", "react"],
-        mobileApp: ["ionic","angular", "rect-native"],
+        backend_framework: ["laravel", "nextjs", "symfony", "django"],
+        backend: ["nodejs", "express", "python", "php", "java"],
+        webtech: ["HTML", "CSS", "javascript", "bootstrap", "materialize", "jquery", "responsive_design],
+        webtools: ["laragon", "xampp", "vscode"]
+        fronEnd: ["angular", "vuejs", "react","javascript"],
+        mobileApp: ["ionic", "react-native", "flutter"],
         database: ["mongo","mySql", "oracle", "postgreSQL"],
         serverless: ["mongo-realm","aws-lambda"],
         devOps: ["AWS", "Nginx", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
+        misc: ["Firebase", "Socket.IO", "git", "github"]
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
 ```
 
 ---
-⭐️ From [@ashrafkm](https://github.com/ffernandluis)
+⭐️ From [@ffernandluis](https://github.com/ffernandluis)
