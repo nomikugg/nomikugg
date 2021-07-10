@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## नमस्ते 🙏, I'm ASHRAF K.M 
+## नमस्ते 🙏, I'm LUIS F.R.
 ## Full Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
@@ -26,14 +27,14 @@ Here are some ideas to get you started:
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const ashraf = {
+const fernando = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["angular"],
-        mobileApp: ["ionic","angular"],
-        database: ["mongo","mySql"],
+        backEnd: ["nodejs", "express", "python", "php", "java"],
+        fronEnd: ["angular", "vuejs", "react"],
+        mobileApp: ["ionic","angular", "rect-native"],
+        database: ["mongo","mySql", "oracle", "postgreSQL"],
         serverless: ["mongo-realm","aws-lambda"],
         devOps: ["AWS", "Nginx", "Jenkins"],
         misc: ["Firebase", "Socket.IO"]
@@ -43,4 +44,4 @@ const ashraf = {
 ```
 
 ---
-⭐️ From [@ashrafkm](https://github.com/ashrafkm)
+⭐️ From [@ashrafkm](https://github.com/ffernandluis)
