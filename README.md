@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Hi 🙏, I'm LUIS FERNANDO R.A.
 ## Full Stack Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-ffernandluis-blue)](https://www.linkedin.com/in/fernandorojas/)
+[![](https://img.shields.io/badge/LinkedIn-ffernandluis-blue)](https://www.linkedin.com/in/nomikugg/)
 [![](https://img.shields.io/badge/Gmail-fernandoarroyo0011@gmail.com-red)](mailto:fernandoarroyo0011@gmail.com)
 
 
@@ -47,4 +47,4 @@ const fernando = {
 ```
 
 ---
-⭐️ From [@ffernandluis](https://github.com/ffernandluis)
+⭐️ From [@ffernandluis](https://github.com/nomikugg)
