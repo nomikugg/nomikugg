@@ -47,4 +47,4 @@ const fernando = {
 ```
 
 ---
-⭐️ From [@ffernandluis](https://github.com/nomikugg)
+⭐️ From [@nomikugg](https://github.com/nomikugg)
