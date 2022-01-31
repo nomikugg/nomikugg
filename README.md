@@ -33,8 +33,8 @@ const fernando = {
     technologies:{
         backend_framework: ["laravel", "symfony", "django"],
         backend: ["nodejs", "python", "php"],
-        web_tech: ["
-            HTML",
+        web_tech: [
+            "HTML",
             "CSS",
             "javascript",
             "bootstrap",
