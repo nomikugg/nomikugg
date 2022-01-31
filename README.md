@@ -31,18 +31,32 @@ const fernando = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backend_framework: ["laravel", "nextjs", "symfony", "django"],
-        backend: ["nodejs", "express", "python", "php", "java"],
-        web_tech: ["HTML", "CSS", "javascript", "bootstrap", "materialize", "jquery", "responsive_design"],
+        backend_framework: ["laravel", "symfony", "django"],
+        backend: ["nodejs", "python", "php"],
+        web_tech: ["
+            HTML",
+            "CSS",
+            "javascript",
+            "bootstrap",
+            "materialize",
+            "jquery",
+            "responsive_design"
+            ],
         web_tools: ["laragon", "xampp", "vscode"],
-        fronend: ["angular", "vuejs", "react","javascript"],
-        mobile_app: ["ionic", "react-native", "flutter"],
-        database: ["mongo","mySql", "oracle", "postgreSQL"],
-        serverless: ["mongo-realm","aws-lambda"],
+        frontend: ["vuejs", "react","javascript"],
+        mobile_app: ["react-native", "flutter"],
+        database: ["mongodb","mySQL", "postgreSQL"],
+        serverless: ["aws-lambda"],
         devOps: ["AWS", "Nginx", "Jenkins"],
         misc: ["Firebase", "Socket.IO", "git", "github"]
     },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+    architecture: ["
+        Serverless Architecture",
+        "microservices",
+        "event-driven",
+        "Single page applications",
+        "clean_code"
+        ],
 }
 ```
 
