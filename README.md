@@ -57,6 +57,10 @@ const fernando = {
         "Single page applications",
         "clean_code"
         ],
+   tools: [
+        "Asana",
+        "Slack",
+        ]
 }
 ```
 
