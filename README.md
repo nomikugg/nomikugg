@@ -31,7 +31,7 @@ const fernando = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backend_framework: ["Laravel", "django"],
+        backend_framework: ["Laravel", "django", "express"],
         backend: ["nodejs", "python", "php"],
         web_tech: [
             "HTML",
@@ -42,12 +42,12 @@ const fernando = {
             "jquery",
             "responsive_design"
             ],
-        web_tools: ["laragon", "xampp", "vscode"],
+        web_tools: ["laragon", "xampp", "vscode", "postman"],
         frontend: ["vuejs", "react","javascript", "Redux"],
         mobile_app: ["react-native", "flutter"],
         database: ["Mongodb","MySQL", "postgreSQL"],
         serverless: ["aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
+        devOps: ["AWS", "Nginx", "Jenkins","Apache"],
         misc: ["Firebase", "Socket.IO", "git", "github", "JEST"]
     },
     architecture: ["
