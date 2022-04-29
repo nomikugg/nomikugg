@@ -55,7 +55,8 @@ const fernando = {
         "microservices",
         "event-driven",
         "Single page applications",
-        "clean_code"
+        "clean_code",
+        "clean architecture"
         ],
    tools: [
         "Asana",
