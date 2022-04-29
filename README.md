@@ -59,7 +59,7 @@ const fernando = {
         ],
    tools: [
         "Asana",
-        "Slack",
+        "Slack"
         ]
 }
 ```
