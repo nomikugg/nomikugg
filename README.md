@@ -34,7 +34,7 @@ const fernando = {
         backend_framework: ["Laravel", "django", "express"],
         backend: ["nodejs", "python", "php"],
         web_tech: [
-            "HTML",
+            "HTML5",
             "CSS",
             "javascript",
             "bootstrap",
