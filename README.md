@@ -47,7 +47,7 @@ const fernando = {
         mobile_app: ["react-native", "flutter"],
         database: ["Mongodb","MySQL", "postgreSQL", "SQL server"],
         serverless: ["aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins","Apache"],
+        devOps: ["AWS", "Nginx", "Jenkins","Apache"."webpack"],
         misc: ["Firebase", "Socket.IO", "git", "github", "JEST"]
     },
     architecture: ["
