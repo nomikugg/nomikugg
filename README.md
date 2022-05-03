@@ -44,8 +44,8 @@ const fernando = {
             ],
         web_tools: ["laragon", "xampp", "vscode", "postman"],
         frontend: ["vuejs", "react","javascript", "Redux"],
-        mobile_app: ["react-native", "flutter", "SQL server"],
-        database: ["Mongodb","MySQL", "postgreSQL"],
+        mobile_app: ["react-native", "flutter"],
+        database: ["Mongodb","MySQL", "postgreSQL", "SQL server"],
         serverless: ["aws-lambda"],
         devOps: ["AWS", "Nginx", "Jenkins","Apache"],
         misc: ["Firebase", "Socket.IO", "git", "github", "JEST"]
