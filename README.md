@@ -48,7 +48,7 @@ const fernando = {
         database: ["Mongodb","MySQL", "postgreSQL", "SQL server"],
         serverless: ["aws-lambda"],
         devOps: ["AWS", "Nginx", "Jenkins","Apache"."webpack"],
-        misc: ["Firebase", "Socket.IO", "git", "github", "JEST"]
+        misc: ["Firebase", "Socket.IO", "JEST"]
     },
     architecture: ["
         Serverless Architecture",
@@ -60,8 +60,13 @@ const fernando = {
         ],
    tools: [
         "Asana",
-        "Slack"
+        "Slack",
+        "git",
+        "github"
         ]
+   github: [
+        "actions"
+   ]
 }
 ```
 
