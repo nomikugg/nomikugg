@@ -71,6 +71,7 @@ const fernando = {
 const devTools = {
     console.log(fernando)
 }
+devTools();
 ```
 
 ---
