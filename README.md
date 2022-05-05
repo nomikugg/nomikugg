@@ -68,6 +68,9 @@ const fernando = {
         "actions"
    ]
 }
+const devTools = {
+    console.log(fernando)
+}
 ```
 
 ---
