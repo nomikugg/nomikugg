@@ -42,7 +42,7 @@ const fernando = {
             "jquery",
             "responsive_design"
             ],
-        web_tools: ["laragon", "xampp", "vscode", "postman", "api"],
+        web_tools: ["laragon", "xampp", "vscode", "postman"],
         frontend: ["vuejs", "react","javascript", "Redux"],
         mobile_app: ["react-native", "flutter"],
         database: ["Mongodb","MySQL", "postgreSQL", "SQL server"],
