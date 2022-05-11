@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ```javascript
 const fernando = {
     pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
+    askMeAbout: ["app dev", "web dev", "tech","frontend web"],
     technologies:{
         backend_framework: ["Laravel", "django", "express"],
         backend: ["nodejs", "python", "php"],
