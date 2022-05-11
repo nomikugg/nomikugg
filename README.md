@@ -52,8 +52,6 @@ const fernando = {
     },
     architecture: ["
         Serverless Architecture",
-        "microservices",
-        "event-driven",
         "Single page applications",
         "clean_code",
         "clean architecture"
