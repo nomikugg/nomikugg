@@ -70,6 +70,7 @@ const devTools = {
     console.log(fernando)
 }
 devTools();
+//Noob programmer
 ```
 
 ---
