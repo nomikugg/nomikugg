@@ -50,8 +50,8 @@ const fernando = {
         devOps: ["AWS", "Nginx", "Jenkins","Apache"."webpack"],
         misc: ["Firebase", "Socket.IO", "JEST"]
     },
-    architecture: ["
-        Serverless Architecture",
+    architecture: [
+        "Serverless Architecture",
         "Single page applications",
         "clean_code",
         "clean architecture"
