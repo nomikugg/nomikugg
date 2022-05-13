@@ -32,7 +32,7 @@ const fernando = {
     askMeAbout: ["app dev", "web dev", "tech","frontend web"],
     technologies:{
         backend_framework: ["Laravel", "django", "express"],
-        backend: ["nodejs", "python", "php"],
+        backend: ["nodejs", "python", "php", "ruby"],
         web_tech: [
             "HTML5",
             "CSS",
