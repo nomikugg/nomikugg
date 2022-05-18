@@ -37,7 +37,7 @@ const fernando = {
             "HTML5",
             "CSS",
             "javascript",
-            "bootstrap",
+            "Bootstrapv3-V4-v5",
             "materialize",
             "jquery",
             "responsive_design"
