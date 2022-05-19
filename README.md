@@ -36,7 +36,7 @@ const fernando = {
         backend: ["nodejs", "python", "php", "ruby", "c-sharp"],
         web_tech: [
             "HTML5",
-            "CSS",
+            "CSS3",
             "javascript",
             "Bootstrapv3-V4-v5",
             "materialize",
