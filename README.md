@@ -59,6 +59,7 @@ const luisFernando = {
         ],
    tools: [
         "Asana",
+        "Trello",
         "Slack",
         "git",
         "github"
