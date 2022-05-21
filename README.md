@@ -67,7 +67,7 @@ const luisFernando = {
         "actions"
    ]
 }
-const devTools = {
+const devTools = ()=>{
     console.log(fernando)
 }
 devTools();
