@@ -64,7 +64,8 @@ const luisFernando = {
         "github"
         ]
    github: [
-        "actions"
+        "actions",
+        "copilot"
    ]
 }
 const devTools = ()=>{
