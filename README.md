@@ -62,7 +62,7 @@ const luisFernando = {
         "Slack",
         "git",
         "github"
-        ]
+        ],
    github: [
         "actions",
         "copilot"
