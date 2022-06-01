@@ -65,7 +65,7 @@ const luisFernando = {
         ]
 }
 const devTools = ()=>{
-    console.log(fernando)
+    console.log(luisFernando)
 }
 devTools();
 //Noob programmer
