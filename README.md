@@ -36,10 +36,10 @@ const luisFernando = {
         web_tech: [
             "HTML5",
             "CSS3",
-            "javascript",
-            "Bootstrapv3-V4-v5",
+            "Javascript",
+            "Bootstrap",
             "materialize",
-            "jquery",
+            "jQuery",
             "responsive_design"
             ],
         web_tools: ["laragon", "xampp", "vscode", "postman","phpmyadmin"],
