@@ -62,11 +62,7 @@ const luisFernando = {
         "Slack",
         "git",
         "github"
-        ],
-   github: [
-        "actions",
-        "copilot"
-   ]
+        ]
 }
 const devTools = ()=>{
     console.log(fernando)
