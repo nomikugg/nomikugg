@@ -32,7 +32,7 @@ const luisFernando = {
     askMeAbout: ["app dev", "web dev", "tech","frontend web"],
     technologies:{
         backend_framework: ["laravel", "django", "express", "nextjs"],
-        backend: ["nodejs", "python", "php", "ruby", "c-sharp"],
+        backend: ["python", "php", "ruby", "c-sharp"],
         web_tech: [
             "HTML5",
             "CSS3",
