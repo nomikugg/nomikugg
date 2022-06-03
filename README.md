@@ -45,7 +45,7 @@ const luisFernando = {
         web_tools: ["laragon", "xampp", "vscode", "postman","phpmyadmin"],
         frontend: ["vuejs", "react","javascript", "Redux"],
         mobile_app: ["react-native", "flutter"],
-        database: ["Mongodb","MySQL", "postgreSQL", "SQL server", "sequelize],
+        database: ["Mongodb","MySQL", "postgreSQL", "SQL-server", "sequelize],
         serverless: ["aws-lambda"],
         devOps: ["AWS", "Nginx", "Jenkins","Apache"."webpack"],
         misc: ["Firebase", "Socket.IO", "JEST"]
