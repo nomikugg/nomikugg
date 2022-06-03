@@ -40,7 +40,7 @@ const luisFernando = {
             "Bootstrap",
             "materialize",
             "jQuery",
-            "responsive_design"
+            "responsiveDesign"
             ],
         web_tools: ["laragon", "xampp", "vscode", "postman","phpmyadmin"],
         frontend: ["vuejs", "react","javascript", "Redux"],
