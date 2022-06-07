@@ -48,7 +48,7 @@ const luisFernando = {
         database: ["Mongodb","MySQL", "postgreSQL", "SQL-server", "sequelize],
         serverless: ["aws-lambda"],
         devOps: ["AWS", "Nginx", "Jenkins","Apache"."webpack"],
-        misc: ["Firebase", "Socket.IO", "JEST"]
+        misc: ["Firebase", "Socket.IO"]
     },
     architecture: [
         "Serverless Architecture",
