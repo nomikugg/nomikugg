@@ -60,7 +60,7 @@ const luisFernando = {
         "Asana",
         "Trello",
         "Slack",
-        "Notion"
+        "Notion."
         ]
 }
 const devTools = ()=>{
