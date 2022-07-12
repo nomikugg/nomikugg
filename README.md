@@ -59,7 +59,8 @@ const luisFernando = {
    tools: [
         "Asana",
         "Trello",
-        "Slack"
+        "Slack",
+        "Notion"
         ]
 }
 const devTools = ()=>{
