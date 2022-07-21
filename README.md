@@ -38,7 +38,7 @@ const luisFernando = {
             "CSS3",
             "Javascript",
             "Bootstrap",
-            "Materialize ",
+            "Materialize",
             "jQuery",
             "responsiveDesign"
             ],
