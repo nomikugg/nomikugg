@@ -39,7 +39,7 @@ const luisFernando = {
             "Javascript",
             "Bootstrap",
             "Materialize",
-            "jQuery",
+            "jQuery ",
             "responsiveDesign"
             ],
         web_tools: ["laragon", "xampp", "vscode", "postman","phpmyadmin"],
