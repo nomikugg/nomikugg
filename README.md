@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ```javascript
 const luisFernando = {
-    pronouns: "He" | | "Him",
+    pronouns: "He" || "Him",
     askMeAbout: ["app dev", "web dev", "tech","frontend web"],
     technologies:{
         backend_framework: ["laravel", "django", "express", "nextjs"],
