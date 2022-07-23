@@ -46,7 +46,7 @@ const luisFernando = {
         frontend: ["Vuejs", "react","javascript", "Redux"],
         mobile_app: ["react-native", "flutter"],
         database: ["Mongodb","MySQL", "postgreSQL", "SQL-server", "sequelize],
-        serverless: ["aws-lambda"],
+        serverless: ["aws - lambda"],
         devOps: ["AWS", "Nginx", "Jenkins", "Apache", "webpack"],
         misc: ["Firebase", "Socket.IO"]
     },
