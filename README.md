@@ -57,7 +57,7 @@ const luisFernando = {
         "clean architecture"
         ],
    tools: [
-        "Asana",
+        " Asana ",
         "Trello",
         "Slack",
         "Notion."
