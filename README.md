@@ -31,7 +31,7 @@ const luisFernando = {
     pronouns: ["He","Him"],
     askMeAbout: ["app dev", "web dev", "tech","frontend web"],
     technologies:{
-        backend_framework: ["laravel", "django", "express", "nextjs"],
+        backendFramework: ["laravel", "django", "express", "nextjs"],
         backend: ["python", "php", "ruby", "c-sharp"],
         web_tech: [
             "HTML5",
