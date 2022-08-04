@@ -68,7 +68,7 @@ const devTools = ()=>{
     console.log("Hi");
 }
 devTools();
-//Noob programmer
+//Noob programmer...
 ```
 
 ---
