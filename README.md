@@ -42,7 +42,7 @@ const luisFernando = {
             "jQuery",
             "responsiveDesign"
             ],
-        web_tools: ["laragon", "xampp", "vscode", "postman","phpmyadmin"],
+        webTools: ["laragon", "xampp", "vscode", "postman","phpmyadmin"],
         frontend: ["Vuejs", "react","javascript", "Redux"],
         mobile_app: ["react-native", "flutter"],
         database: ["Mongodb","MySQL", "postgreSQL", "SQL-server", "sequelize],
