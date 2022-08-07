@@ -53,7 +53,7 @@ const luisFernando = {
     architecture: [
         "Serverless Architecture",
         "Single page applications",
-        "clean_code",
+        "cleanCode",
         "clean architecture"
         ],
    tools: [
