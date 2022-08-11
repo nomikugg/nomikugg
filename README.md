@@ -33,7 +33,7 @@ const luisFernando = {
     technologies:{
         backendFramework: ["laravel", "django", "express", "nextjs"],
         backend: ["python", "php", "ruby", "c-sharp"],
-        web_tech: [
+        webTech: [
             "HTML5",
             "CSS3",
             "Javascript",
